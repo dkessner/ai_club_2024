@@ -16,7 +16,7 @@
 
 
 
-Darren Kessner  
+Dr. Darren Kessner  
 Marlborough School   
 AI Club presentation  
 November 12, 2024  
@@ -28,6 +28,47 @@ November 12, 2024
 
 
 ]
+
+---
+
+### Who Am I?
+
+.split-50[
+.column[
+.center[
+<img src="pix/DarrenKessner_25.jpg" width="50%"/>
+<img src="pix/marlborough_school_cover.jpeg" width="70%"/>
+<img src="pix/ei_building.jpg" width="70%"/>
+]
+]
+
+.column[
+]
+__Dr. Kessner__
+
+- BS, MA in Mathematics
+
+- PhD in Bioinformatics
+
+- software developer for over 25 years
+
+<br/>
+
+__Marlborough School__
+
+- Program Head of Computer Science and Software Innovation
+
+- 11th year
+
+<br/>
+
+__Ellison Institute of Technology__  
+
+- Software Engineer in AI and Advanced Molecular Medicine group
+
+]
+
+
 
 ---
 
