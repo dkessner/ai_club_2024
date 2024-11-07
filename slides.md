@@ -426,9 +426,7 @@ Generative
 
 <br/>
 
-<!--
 <img src="pix/qr.png" width="30%"/>
--->
 
 <br/>
 
