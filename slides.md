@@ -18,7 +18,7 @@
 
 Dr. Darren Kessner  
 Marlborough School   
-AI Club presentation  
+Pushing Perspectives / AI Club  
 November 12, 2024  
 
 <br/>
