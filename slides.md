@@ -1,32 +1,19 @@
 
 .center[
-
-<br/>
-<br/>
-<br/>
-<br/>
-
+<br/> <br/> <br/> <br/>
 
 ## A Deeper Dive Into AI
 
-<br/>
-<br/>
-<br/>
-<br/>
-
-
+<br/> <br/> <br/> <br/>
 
 Dr. Darren Kessner  
 Marlborough School   
 Pushing Perspectives / AI Club  
 November 12, 2024  
 
-<br/>
-<br/>
+<br/> <br/>
 
 [dkessner.github.io/ai_club_2024](http://dkessner.github.io/ai_club_2024)  
-
-
 ]
 
 ---
@@ -215,6 +202,13 @@ Image credits:
 .column[
 <br/>
 <img src="pix/neural_network.png" width="100%"/>
+
+.center[
+weights == parameters
+
+training == adjusting weights to decrease loss
+]
+
 ]
 
 ]
@@ -320,7 +314,10 @@ cosine similarity (shorter distance)
 
 __Contextual embedding__
 
-mapping of words depends on its context within a sentence
+mapping of words depends on its context within a sentence:  
+
+_"Time __flies__ like an arrow, fruit __flies__ like a banana"_
+
 
 ]
 
@@ -403,6 +400,9 @@ Parameter counts
 - Claude 2-3: ?
 - Gemini: ?
 - GPT-4: ?
+
+[<a href="https://en.wikipedia.org/wiki/Large_language_model#List_of_Large_Language_Models" target="_blank">Wikipedia List of LLMs</a>]
+
 ]
 
 .column[
@@ -419,12 +419,17 @@ Image: Economist Sep 19, 2024
 
 ### Applications
 
+.split-50[
+
+.column[
+
 <br/>
 
 Traditional
 - audio analysis
 - image analysis
-- natural language processing
+- natural language  
+  processing
 
 <br/>
 
@@ -432,7 +437,25 @@ Generative
 - text generation
 - image generation
 - drug discovery
+]
 
+.column[
+
+<img src="pix/breast_cancer_ai_prediction.png" width="60%"/>  
+Breast cancer AI prediction
+
+<img src="pix/alphafold3.webp" width="60%"/>  
+AlphaFold 3 protein prediction
+
+<small>
+Image credits:
+[1](https://www.nature.com/articles/srep46450)
+[2](https://www.nature.com/articles/d41586-024-03708-4)
+</small>
+
+] 
+
+]
 
 ---
 
