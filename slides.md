@@ -459,7 +459,9 @@ Image credits:
 
 ---
 
-### Topics for STEM classes
+### Math & Science Concepts
+
+<br/>
 
 - Linear regression
 
@@ -489,12 +491,14 @@ Image credits:
 .center[
 
 <br/>
+dkessner.github.io/ai_club_2024  
+<br/>
 
 <img src="pix/qr.png" width="30%"/>
 
 <br/>
 
-dkessner.github.io/ai_club_2024
+Join AI Club or Code Violet!
 
 ]
 
