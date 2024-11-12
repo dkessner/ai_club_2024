@@ -31,7 +31,9 @@ November 12, 2024
 
 .column[
 ]
+.center[
 __Dr. Kessner__
+]
 
 - BS, MA in Mathematics
 
@@ -39,21 +41,25 @@ __Dr. Kessner__
 
 - software developer for over 25 years
 
-<br/>
 
+.center[
 __Marlborough School__
+]
 
 - Program Head of Computer Science and Software Innovation
 
 - 11th year
 
-<br/>
+- AP Computer Science and Honors Computer Science Projects
 
+.center[
 __Ellison Institute of Technology__  
+]
 
 - Software Engineer in AI and Advanced Molecular Medicine group
 
 ]
+
 
 
 
@@ -498,7 +504,8 @@ dkessner.github.io/ai_club_2024
 
 <br/>
 
-Join AI Club or Code Violet!
+Join AI Club or Code Violet,   
+or sign up for a coding class!
 
 ]
 
